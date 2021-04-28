@@ -1,0 +1,2 @@
+#UPDATE clients SET order_name = 'Книга' WHERE fio = 'Иванов Иван Иванович';
+#select id, fio, order_name from clients where order_name is not null;
